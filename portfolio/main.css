@@ -1,0 +1,96 @@
+.jumbotron{
+    text-align: center;
+    background:none;
+}
+.section-light{
+    background-color: #eceeef;
+    padding:2em;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding:2rem;
+}
+.coolStuffWrapper{
+    margin-top: 20px;
+
+}
+button.coolStuffBtn{
+background-color: red;
+display:block;
+margin:auto;
+color:#ffff;
+}
+/* h5.modal-title#coolStuffLabel{
+    margin:auto;
+    display:block;
+    text-align:center;
+} */
+
+.modalFormWrapper{
+    display:block;
+    margin-top: 2rem;
+}
+.imgCenter{
+    display:block;
+    margin:auto;
+    margin-top: 15px;
+}
+
+.btnCenter{
+     display:block;
+     margin:auto;
+     margin-top: 15px;
+     margin-bottom: 20px;
+    width:63%;
+}
+
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.embed-responsive .embed-responsive-item,
+.embed-responsive embed,
+.embed-responsive iframe,
+.embed-responsive object,
+.embed-responsive video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.embed-responsive-16by9::before {
+    padding-top: 56.25%;
+}
+
+.embed-responsive::before {
+    display: block;
+    content: "";
+}
+
+
+.size{
+       width: 30%;
+       padding: 10px;
+}
+/* . fa-facebook-square{
+ 
+    color:#a3adc2;
+} */
+.footer{
+    margin-top: 10px;
+}
+.fa-brands{
+    margin:10px;
+
+}
+.socialWrapper{
+    margin:auto;
+}

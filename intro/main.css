@@ -1,0 +1,54 @@
+body {
+  /* background-image: url(tiger.jpg); */
+  /* background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center; */
+}
+
+ul li {
+  color: rgb(255, 0, 191);
+  font-size: 24px;
+}
+body .container {
+  color: aquamarine;
+}
+h1,
+h2 {
+  font-size: 24px;
+  font-style: italic;
+  color: crimson;
+  line-height: 2rem;
+  text-shadow: 2px 2p 5px black;
+}
+
+div {
+  color: cyan;
+}
+
+div.container {
+  color: greenyellow;
+}
+img {
+  max-width: 50%;
+  height: auto;
+  padding: 5px;
+  opacity: 0.25;
+  /* display: block;
+  margin: 0 auto; */
+}
+.borderImg {
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+  border: 10px solid rgb(124, 122, 122);
+  padding: 5px;
+}
+
+button {
+  color: white;
+  background: red;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  padding: 15px;
+}
